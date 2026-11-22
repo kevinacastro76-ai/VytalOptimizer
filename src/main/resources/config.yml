@@ -1,0 +1,13 @@
+# VytalOptimizer - configuración principal
+settings:
+  language: es
+  # Intervalo del muestreo del monitor, en ticks (20 ticks = 1 segundo).
+  sampling-interval-ticks: 20
+  # Cantidad máxima de tareas a mostrar en el informe.
+  max-task-details: 15
+  # Mostrar advertencias al ejecutar /vo analizar.
+  show-warnings: true
+
+messages:
+  prefix: "&8[&bVytalOptimizer&8] &7"
+  
