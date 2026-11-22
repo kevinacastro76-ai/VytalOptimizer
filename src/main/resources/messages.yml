@@ -1,0 +1,7 @@
+# Mensajes personalizables. Los códigos & de color son compatibles.
+prefix: "&8[&bVytalOptimizer&8] &7"
+no-permission: "&cNo tienes permiso para utilizar este comando."
+player-only: "&cEste comando solo puede ejecutarse desde el servidor."
+unknown-command: "&cSubcomando desconocido. Usa &f/vo ayuda&c."
+analysis-start: "&aIniciando diagnóstico del servidor..."
+analysis-finish: "&aDiagnóstico completado. Consulta el resumen de abajo."

@@ -1,0 +1,17 @@
+name: VytalOptimizer
+version: ${version}
+main: com.vytal.optimizer.VytalOptimizer
+api-version: '1.20'
+author: Vytal Studios
+description: Diagnóstico de rendimiento y análisis de tareas para servidores Minecraft.
+website: https://github.com/
+commands:
+  vytaloptimizer:
+    description: Comando principal de VytalOptimizer.
+    usage: /vytaloptimizer [analizar|plugins|tps|memoria|entidades|reporte|ayuda]
+    aliases: [vo]
+    permission: vytaloptimizer.admin
+permissions:
+  vytaloptimizer.admin:
+    description: Permite utilizar todas las funciones administrativas de VytalOptimizer.
+    default: op
